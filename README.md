@@ -14,8 +14,8 @@ The Dataset used is private property and hasn't been uploaded (`1000 images`,`10
 * [training.ipynb](https://github.com/nerdykamil/football_detection/training.ipynb) - Run this notebook using google colab and follow along the instructions to train the model and produce it's tflite file to be deployed in phones.
 
 ## Results
-<img src="TensorBoard/TB_mAP.png"
-     alt="mAP" width="738">
+<img src="TensorBoard/eval_images.png"
+     alt="Sample Images" width="738">
 
 1. mAP
 <img src="TensorBoard/TB_mAP.png"
@@ -29,4 +29,6 @@ The Dataset used is private property and hasn't been uploaded (`1000 images`,`10
 <img src="TensorBoard/TB_recall.png"
      alt="Recall" width="738">
      
+## Deploying models in Android Application
+[detect.tflite](tflite/detect.tflite) and [label_map.pbtxt](tf_records/label_map.pbtxt) are used to export and deploy the model into an android application. This can be done using the tutorial [here](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android)      
 
