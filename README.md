@@ -17,7 +17,7 @@ The Dataset used is private property and hasn't been uploaded (`1000 images`,`10
 <img src="https://github.com/nerdykamil/football_detection/TensorBoard/TB_mAP.png"
      alt="mAP" width="120" height="178">
 
-<img src="https://github.com/nerdykamil/football_detection/TensorBoard/TB_loss.png"
+<img src="TensorBoard/TB_loss.png"
      alt="Loss" width="120" height="178">
 
 <img src="https://github.com/nerdykamil/football_detection/TensorBoard/TB_recall.png"
