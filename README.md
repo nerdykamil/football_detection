@@ -14,12 +14,12 @@ The Dataset used is private property and hasn't been uploaded (`1000 images`,`10
 * [training.ipynb](https://github.com/nerdykamil/football_detection/training.ipynb) - Run this notebook using google colab and follow along the instructions to train the model and produce it's tflite file to be deployed in phones.
 
 ## Results
-<img src="https://github.com/nerdykamil/football_detection/TensorBoard/TB_mAP.png"
-     alt="mAP" width="120" height="178">
+<img src="TensorBoard/TB_mAP.png"
+     alt="mAP" width="738">
 
 <img src="TensorBoard/TB_loss.png"
-     alt="Loss" width="120" height="178">
+     alt="Loss" width="738">
 
-<img src="https://github.com/nerdykamil/football_detection/TensorBoard/TB_recall.png"
-     alt="Recall" width="120" height="178">
+<img src="TensorBoard/TB_recall.png"
+     alt="Recall" width="738">
 
