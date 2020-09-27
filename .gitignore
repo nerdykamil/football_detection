@@ -1,0 +1,12 @@
+/Temp_Dataset/*
+!/Temp_Dataset
+/dataset/*
+!/dataset
+/fine_tuned_quantmodel/*
+!/fine_tuned_quantmodel
+/tflite/*
+!/tflite/detect.tflite
+/tf_records/*
+!/tf_records/label_map.pbtxt
+/training_quant/*
+!/training_quant/
