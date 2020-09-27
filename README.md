@@ -14,6 +14,9 @@ The Dataset used is private property and hasn't been uploaded (`1000 images`,`10
 * [training.ipynb](https://github.com/nerdykamil/football_detection/training.ipynb) - Run this notebook using google colab and follow along the instructions to train the model and produce it's tflite file to be deployed in phones.
 
 ## Results
+<img src="TensorBoard/TB_mAP.png"
+     alt="mAP" width="738">
+
 1. mAP
 <img src="TensorBoard/TB_mAP.png"
      alt="mAP" width="738">
@@ -25,4 +28,5 @@ The Dataset used is private property and hasn't been uploaded (`1000 images`,`10
 3. Recall
 <img src="TensorBoard/TB_recall.png"
      alt="Recall" width="738">
+     
 
