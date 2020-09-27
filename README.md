@@ -5,6 +5,7 @@ The training was done using Google colab to leverage GPU for compute
 
 ## Dataset
 The Dataset used is private property and hasn't been uploaded (`1000 images`,`1000 annotations in xml format`)
+For training the data was split into 85% and 15% for train and test sets respectively.
 
 ## How it works
 * [partition_dataset.py](https://github.com/nerdykamil/football_detection/partition_dataset.py) - Used to partition the dataset into test and train 
